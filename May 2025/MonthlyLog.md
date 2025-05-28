@@ -10,7 +10,7 @@
 - New component RuyiInLive for community link and stats
 - New NewsShowcase for display Ruyi News
 
-### Pull #
+### Pull #138 https://github.com/ruyisdk/ruyisdk-website/pull/138
 
 - Updated native RuyiInLive chart for better scrolling handling and performance
 - RuyiInLive chart with better visuals(bolder bars, in-bar commands, no digits)
@@ -22,8 +22,7 @@
 
 ## Documentations
 
-### Pull #83
+### Pull #83 https://github.com/ruyisdk/docs/pull/83
 
-https://github.com/ruyisdk/docs/pull/83
 - Tested and documentated the Ruyi Gentoo overlay 
 - Configured the download page to use API for latest link
