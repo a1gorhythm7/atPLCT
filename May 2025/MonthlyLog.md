@@ -1,8 +1,8 @@
-## May 2025
+# May 2025
 
-### Ruyi Website
+## Ruyi Website
 
-#### Design and implement the new Homepage
+### Design and implement the new Homepage
 
 https://github.com/ruyisdk/ruyisdk-website/pull/128
 
@@ -11,7 +11,7 @@ https://github.com/ruyisdk/ruyisdk-website/pull/128
 
  
 
-#### Documentations
+### Documentations
 
 https://github.com/ruyisdk/docs/pull/83
 - Tested and documentated the Ruyi Gentoo overlay 
