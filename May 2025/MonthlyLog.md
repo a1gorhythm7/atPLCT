@@ -6,7 +6,7 @@
 ### Pull #128 https://github.com/ruyisdk/ruyisdk-website/pull/128
 
 - Initial version of new homepage
-- New component MainDisplay for visual attraction and animated ruyipm operations
+- New component MainDisplay for visual attraction and animated ruyi operations
 - New component RuyiInLive for community link and stats
 - New NewsShowcase for display Ruyi News
 
