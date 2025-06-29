@@ -23,9 +23,10 @@
 
 ## Design and implement the communiy page
 
-### Pull #149 https://github.com/ruyisdk/ruyisdk-website/pull/149 (Not finished)
+### Pull #149 https://github.com/ruyisdk/ruyisdk-website/pull/149
 
 - Add community page with community link, peoples, sponsors and rubric.
 - Update the navbar for new page.
 - The page have glass-like effect if use a vibrant background. Keep light-grey in this version for simplicity.
 - TODO BEFORE MERGING: replace the placeholder text.
+- Add i18n support for new page and components
